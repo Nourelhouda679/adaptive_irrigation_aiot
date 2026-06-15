@@ -1,5 +1,4 @@
-ر# Adaptive Irrigation AIoT System
-
+# Adaptive Irrigation AIoT System
 ## Overview
 
 This project presents an Adaptive Irrigation Management System that integrates Internet of Things (IoT) and Artificial Intelligence (AI) technologies to optimize irrigation decisions in agriculture.
